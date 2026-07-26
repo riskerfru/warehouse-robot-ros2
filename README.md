@@ -5,6 +5,11 @@ obstacle avoidance for a simulated warehouse robot.
 
 Give it an order in plain English and it plans the route, navigates the
 aisles, identifies the target bin by colour, picks it, and delivers it.
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/k35GhiyE4QM/maxresdefault.jpg)](https://youtu.be/k35GhiyE4QM)
+
+Natural-language order → RRT* planning → lidar obstacle detection → pick and deliver.
 
 ## Architecture
 
