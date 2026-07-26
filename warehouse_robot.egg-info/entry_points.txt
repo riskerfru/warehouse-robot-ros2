@@ -1,0 +1,5 @@
+[console_scripts]
+dashboard = warehouse_robot.dashboard_server:main
+image_mapper = warehouse_robot.image_mapper:main
+navigator = warehouse_robot.navigator:main
+task_planner = warehouse_robot.task_planner:main
